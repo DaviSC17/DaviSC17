@@ -46,6 +46,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DaviSC17/DaviSC17/output/snake.svg" alt="Snake animation" />
-
 ###
